@@ -1,6 +1,3 @@
-// Give a number in input check if it is even and half of of your input is also even. 
-// If theese all conditions are true print YES else print NO
-
 #include <stdio.h>
  
 int main(){
@@ -13,3 +10,5 @@ int main(){
     }
     return 0;
 }
+
+// https://www.codeforces.com/problemset/problem/4/A
